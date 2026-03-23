@@ -15,7 +15,6 @@ int main() {
 
     char operacao;
     double n1, n2;
-    int i = 1;
     cabecalho();
 
     std::cout << "Digite: [numero] [operador +, -, *, /] [numero]: ";
